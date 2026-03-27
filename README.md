@@ -24,7 +24,7 @@ Every time you approve a 2FA push notification in the GitHub app, a "Verificatio
 ## Requirements
 
 - Android 10 (API 29) or higher
-- [LSPosed](https://github.com/JingMatrix/LSPosed) (JingMatrix fork recommended)
+- An LSPosed Manager version with API 101 support (required for now)
 - GitHub mobile app (`com.github.android`)
 
 > [!NOTE]
